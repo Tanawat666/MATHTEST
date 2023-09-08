@@ -1,0 +1,44 @@
+.cal{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    color:royalblue;
+    padding: 10px;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 100px;
+}
+.SE{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(255, 187, 178);
+    width: 550px;
+    border-radius: 150px;
+    font-size: 20px;
+}
+
+.ANS{
+    font-size: 50px;
+    text-align: center;
+    
+}
+#answer{
+    font-size: 50px;
+    
+}
+.BN{
+    text-align: center;
+}
+.BN>button{
+    font-size:20px;
+    color: aliceblue;
+    background-color: rgb(34, 255, 0);
+    padding: 10px;
+    border-radius: 100px;
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
