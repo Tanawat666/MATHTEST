@@ -1,0 +1,49 @@
+.cal{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    color:royalblue;
+    padding: 10px;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 100px;
+}
+.SE{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(255, 187, 178);
+    width: 550px;
+    border-radius: 150px;
+    font-size: 30px;
+}
+
+.ANS{
+    font-size: 100px;
+    text-align: center;
+    
+}
+#answer{
+    text-align: center;
+    margin: auto;
+    font-size: 80px;
+    width: 180px;
+    height: 100px;
+    display:block;
+}
+.BN{
+    text-align: center;
+}
+.BN>button{
+    margin-top: -200px;
+    font-size:50px;
+    color: aliceblue;
+    background-color: rgb(34, 255, 0);
+    padding: 10px;
+    border-radius: 100px;
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
